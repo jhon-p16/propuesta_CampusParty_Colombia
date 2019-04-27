@@ -12,6 +12,10 @@ Se abordaran temas de programacion de micontroladores ESP32/8266 con micropython
 En esta casi todo esta programado en python desde el micontrolador hasta la aplicacion que enlaza el asistente con el dashboard, ademas el uso uso de micropython y microcontroladores hacen un ecosistema perfercto para la domotica. 
 Ademas es importante que esta charla este en el PyDay-Pereira porque es una tendencia tecnologica y es imporatante que se profundicen estos temas desde el punto de vista teórico y práctico, y de esa forma conozcan el proceso que lleva a cabo la domótica.
 Para realizar la charla necesito de WiFi de ser posible, si no puedo hacer hostpod usando datos de mi movil, lo cual seria tambien para demostrar que la conexion es flexible y puede funcionar con pocos datos.
+## Proyectos de ejemplo
+En este repositorio esta un ejemplo para controlar luces led usando adafruit IO y Google Assistant
+https://github.com/FunPythonEC/Neopixel_-_Google_assistant
+Esta fue una prueba para probar la conexion mqtt con micropython (subscribe y publish) con la plataforma ubidots
 ## Esquema de la charla con tiempos y breve descripcion de las actividades
 ## Introducción (5)
 Me presentare y se dara una breve introduccion a micropython, microcontroladores esp32 y esp8266, cloud platforms y asistentes de voz
