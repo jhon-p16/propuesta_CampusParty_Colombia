@@ -28,10 +28,10 @@ Para realizar la charla necesito de WiFi de ser posible, si no puedo hacer hostp
 
 ## Proyectos de ejemplo
 
-*En este repositorio esta un ejemplo para controlar luces led usando adafruit IO y Google Assistant
+* En este repositorio esta un ejemplo para controlar luces led usando adafruit IO y Google Assistant
 https://github.com/FunPythonEC/Neopixel_-_Google_assistant
 
-*Esta fue una prueba para probar la conexion mqtt con micropython (subscribe y publish) con la plataforma ubidots
+* Esta fue una prueba para probar la conexion mqtt con micropython (subscribe y publish) con la plataforma ubidots
 https://github.com/FunPythonEC/ubidots_mqtt_upy
 
 ## Esquema de la charla con tiempos y breve descripcion de las actividades
