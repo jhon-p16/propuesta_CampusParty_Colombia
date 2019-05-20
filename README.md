@@ -1,4 +1,5 @@
-# propuesta_PyDay_Pereira
+# propuesta_CampusParty_Colombia
+
 
 Descripción de la charla propuesta sobre domótica con IoT y microPython.
 
@@ -22,7 +23,7 @@ Se abordaran temas de programacion de micontroladores ESP32/8266 con micropython
 
 En esta casi todo esta programado en python desde el micontrolador hasta la aplicacion que enlaza el asistente con el dashboard, ademas el uso uso de micropython y microcontroladores hacen un ecosistema perfercto para la domotica. 
 
-Ademas es importante que esta charla este en el PyDay-Pereira porque es una tendencia tecnologica y es imporatante que se profundicen estos temas desde el punto de vista teórico y práctico, y de esa forma conozcan el proceso que lleva a cabo la domótica.
+Ademas es importante que esta charla este en el CampusParty_Colombia porque es una tendencia tecnologica y es imporatante que se profundicen estos temas desde el punto de vista teórico y práctico, y de esa forma conozcan el proceso que lleva a cabo la domótica.
 
 Para realizar la charla necesito de WiFi de ser posible, si no puedo hacer hostpod usando datos de mi movil, lo cual seria tambien para demostrar que la conexion es flexible y puede funcionar con pocos datos.
 
