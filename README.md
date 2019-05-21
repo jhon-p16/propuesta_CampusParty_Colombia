@@ -23,9 +23,11 @@ Se abordaran temas de programacion de micontroladores ESP32/8266 con micropython
 
 En esta casi todo esta programado en python desde el micontrolador hasta la aplicacion que enlaza el asistente con el dashboard, ademas el uso uso de micropython y microcontroladores hacen un ecosistema perfercto para la domotica. 
 
+Con la comunidad [FunPyhton](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/VID-20180719-WA0023.mp4) queremos decratizar el conocimiento, aprender y compartir nuestras experiencias con la comunidad, para impulsar e inspirar a más jovenes y niños.
+
 Ademas es importante que esta charla este en el CampusParty_Colombia porque es una tendencia tecnologica y es imporatante que se profundicen estos temas desde el punto de vista teórico y práctico, y de esa forma conozcan el proceso que lleva a cabo la domótica.
 
-Para realizar la charla necesito de WiFi de ser posible, si no puedo hacer hostpod usando datos de mi movil, lo cual seria tambien para demostrar que la conexion es flexible y puede funcionar con pocos datos.
+Para realizar la charla necesito de WiFi de ser posible, si no puedo hacer hostpot Wi-Fi usando datos de mi movil, lo cual seria tambien para demostrar que la conexion es flexible y puede funcionar con un ancho de banda limitado.
 
 ## Proyectos de ejemplo
 
@@ -54,6 +56,7 @@ Una vez establecida la comunicacion, ya se puede hacer un dashboard en donde se 
 4. Nube
 5. Dashboard/Asistente
 6. Realiza acción
+7. Smart Casita encendida
 
 ## Finalización(5)
 
@@ -66,23 +69,7 @@ Se hara una demo interactiva con los asistentes de voz para enceder luces o camb
 Iot - microPython
 
 # Videos de ejemplo
-## Test de prueba
-[![Prueba Luces](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fgithub.com%2Fjhonpaulo98%2Fpropuesta_CampusParty_Colombia%2Fblob%2Fmaster%2Fmedia%2FDRFL4791.mp4)](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/DRFL4791.mp4 "Prueba Luces")
-
-## Color Picker
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/XNHJ0945.mp4">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
-  </video>
-</figure>
-
-## Google Assistant
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
-  </video>
-</figure>
+* [Test de prueba](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/DRFL4791.mp4)
+* [Color Picker](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/media/XNHJ0945.mp4)
+* [Google Assistant](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/VID-20180719-WA0023.mp4)
+* #[Alexa](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/)
