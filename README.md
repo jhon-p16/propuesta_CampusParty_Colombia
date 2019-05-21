@@ -67,6 +67,11 @@ Iot - microPython
 
 # Videos de ejemplo
 ## Test de prueba
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/IMG_8942.MOV">
+    <source src="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/IMG_8942.MOV" type="video/MOV">
+  </video>
+</figure>
 
 ## Color Picker
 ## Alexa y Google Assistant
