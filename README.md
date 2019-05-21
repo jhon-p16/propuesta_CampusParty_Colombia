@@ -68,8 +68,10 @@ Iot - microPython
 # Videos de ejemplo
 ## Test de prueba
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/IMG_8942.MOV">
-    <source src="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/IMG_8942.MOV" type="video/MOV">
+  <video controls="true" allowfullscreen="true" poster="">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
   </video>
 </figure>
 
