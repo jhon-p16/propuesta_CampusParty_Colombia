@@ -68,7 +68,7 @@ Iot - microPython
 # Videos de ejemplo
 ## Test de prueba
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/DRFL4791.mp4">
     <source src="path/to/video.mp4" type="video/mp4">
     <source src="path/to/video.ogg" type="video/ogg">
     <source src="path/to/video.webm" type="video/webm">
@@ -76,4 +76,19 @@ Iot - microPython
 </figure>
 
 ## Color Picker
-## Alexa y Google Assistant
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/XNHJ0945.mp4">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+
+## Google Assistant
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
