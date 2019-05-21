@@ -67,13 +67,7 @@ Iot - microPython
 
 # Videos de ejemplo
 ## Test de prueba
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/DRFL4791.mp4">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
-  </video>
-</figure>
+[![Prueba Luces](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fgithub.com%2Fjhonpaulo98%2Fpropuesta_CampusParty_Colombia%2Fblob%2Fmaster%2Fmedia%2FDRFL4791.mp4)](https://github.com/jhonpaulo98/propuesta_CampusParty_Colombia/blob/master/media/DRFL4791.mp4 "Prueba Luces")
 
 ## Color Picker
 <figure class="video_container">
